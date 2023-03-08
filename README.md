@@ -24,6 +24,12 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 
 ## Mock Up
+<img src="./assets/.passwordgenerator.png"/>
+<img src=".assets/.passwordlength.png"/>
+<img src=".assets/.passwordlowercase.png"/>
+<img src=".assets/.passworduppercase.png"/>
+<img src=".assets/.passwordspecialcharacters.png"/>
+<img src=".assets/.passwordnumbers.png"/>
 
 ## Deployment
 
