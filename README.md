@@ -32,6 +32,7 @@ For all employees with access to sensitive data, I have created a password gener
 ![passwordgenerator](./assets/passwordspecialcharacters.png)
 
 ## Deployment
+https://yaneyalvarado.github.io/PasswordLock/
 
 ## GitHub
 https://github.com/yaneyalvarado/PasswordLock
